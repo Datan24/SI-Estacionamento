@@ -3,7 +3,6 @@
 
 
 
-
 Culpa - Manobrista precisa ter o conhecimento que cada carro tem seu tamanho e pode ou não caber em determinada vaga.
 
 Solução - Após a modernização do sistema contratar uma empresa terceirizada a treinar os manobristas no uso de por exemplo ( Camera de rè ) contratar pessoas com carta e fazer teste
